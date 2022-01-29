@@ -10,6 +10,7 @@ const campsiteRouter = require('./routes/campsiteRouter');
 const partnerRouter = require('./routes/partnerRouter');
 const promotionRouter = require('./routes/promotionRouter');
 
+
 var app = express();
 
 // view engine setup
